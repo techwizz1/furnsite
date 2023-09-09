@@ -32,12 +32,40 @@ html{
 .navbar-top div{
     margin:0.4rem;
 }
+.logo{
+    display: flex;
+    align-items: center;
+}
 .logo i{
     font-size: 6rem;
     color: #f8872b;
     margin-right: 2rem;
-
 }
+.logo span{
+    font-family: "kenia" cursive;
+    font-size: 4rem;
+    letter-spacing: .3rem;
+    color: #073e72;
+}
+
+.search-bar input{
+    width: 52rem;
+    padding: 1.2rem 1.4rem 1.2rem 3.7rem;
+    background-color: #eaeff5;
+    border: none;
+    border-radius: .5rem;
+    font-size: 1.6rem;
+    font-weight: 300;
+    color: #073e72;
+}
+
+.search-bar input::placeholder{
+    font-size: 1.7rem;
+    font-weight: 300;
+    color: #073e72;
+}
+
+
 /*end of navbar*/
 /*end of conatiners*/
 
