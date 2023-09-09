@@ -42,7 +42,7 @@ html{
     margin-right: 2rem;
 }
 .logo span{
-    font-family: "kenia" cursive;
+    font-family: "Kenia" cursive;
     font-size: 4rem;
     letter-spacing: .3rem;
     color: #073e72;
@@ -51,7 +51,7 @@ html{
 .search-bar input{
     width: 52rem;
     padding: 1.2rem 1.4rem 1.2rem 3.7rem;
-    background-color: #eaeff5;
+    background-color: #eaeff3;
     border: none;
     border-radius: .5rem;
     font-size: 1.6rem;
