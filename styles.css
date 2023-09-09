@@ -42,7 +42,7 @@ html{
     margin-right: 2rem;
 }
 .logo span{
-    font-family: "Kenia" cursive;
+    font-family: "Kenia", cursive;
     font-size: 4rem;
     letter-spacing: .3rem;
     color: #073e72;
