@@ -23,7 +23,21 @@ html{
     align-items: center;
     box-shadow: 0.1rem 5rem rgba(0,0,0,.1);
 }
+.navbar-top{
+    display: flex;
+    align-items: center;
+    padding: 2rem 0;
+}
 
+.navbar-top div{
+    marign:0.4rem;
+}
+.logo i{
+    font-size: 6rem;
+    color: #f8872b;
+    margin-right: 2rem;
+    
+}
 /*end of navbar*/
 /*end of conatiners*/
 
