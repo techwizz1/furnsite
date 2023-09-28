@@ -70,10 +70,48 @@ html{
     top:50%;
     left:1.4rem;
     transform:translateY(-50%);
+    font-size: 1.5rem;
+    color: #073e72;
+}
+.user{
+    font-size: 2rem;
+    color: #073e72;
+}
+
+.user i, .user span{
+    margin-right: 1.2rem;
+}
+.nav-list{
+    display:flex;
+    height: 8.5rem;
+    padding-top: 2rem;
+}
+.nav-list div{
+    width: 16rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-left: .1rem solid #e9edf1;
+}
+
+.nav-list div:nth-child(1){
+    border:none;
+}
+
+.nav-list i{
+    font-size: 2rem;
+    color: #073e72;
+    margin-bottom: 1rem;
 
 }
 
+.nav-list span{ 
+    font-size: 1.6rem;
+    color: #073e72;
+    letter-spacing: .1rem;
 
+}
 /*end of navbar*/
 /*end of conatiners*/
 
