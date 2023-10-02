@@ -177,7 +177,10 @@ html{
     color: #fff;
 }
 
-.banner-btn-1:hover
+.banner-btn-1:hover{
+    background-color: #fff;
+    color: #f8872b;
+}
 
 .banner-btn-2{
     right: 25rem;
