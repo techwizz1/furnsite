@@ -368,7 +368,7 @@ html{
     height: 100%;
     background-color: #0b3954;
     border-radius: 0 2rem 2rem 0;
-    display: block;
+    display: flex;
     align-items: center;
     justify-content: center;
 }
